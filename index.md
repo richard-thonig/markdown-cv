@@ -1,23 +1,23 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Richard Thonig's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Richard Thonig
+Renewable energy, innovation, climate change mitigation.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="richard@thonig.org">richard@thonig.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## Mission
 
-Standing on the shoulders of giants
+I want to change the world.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+ disliking [CSP.guru](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
@@ -58,7 +58,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -87,5 +87,3 @@ __Lucasian professor of Mathematics__, Cambridge University
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
