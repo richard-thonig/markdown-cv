@@ -13,47 +13,31 @@ Renewable energy, innovation, climate change mitigation.
 
 ## Mission
 
-I want to change the world.
+
 
 ### Specialized in
 
- disliking [CSP.guru](http://en.wikipedia.org/wiki/Robert_Hooke)
+ Policy analysis [CSP.guru](www.csp.guru)
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Energy policy, climate policy,...
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2018`
+__ETH Zurich.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019-now`
+__University of Potsdam__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+- PhD Student policy analysis
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is available [online](https://scholar.google.com/citations?user=Mvx5HZAAAAAJ&hl=en&oi=ao).
 
 ### Journals
 
@@ -83,7 +67,6 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 
+### Footer
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: August 2023
