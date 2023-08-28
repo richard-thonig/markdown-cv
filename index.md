@@ -57,14 +57,12 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018 -2023`
+__Research Institute for Sustainability__, Potsdam
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Research Associate
+- Researching stuff
+- writing stuff
 
 
 ### Footer
